@@ -14,7 +14,7 @@ npm: 10.9.7
 Clone the project on another system:
 
 ```powershell
-git clone <your-repository-url>
+git clone https://github.com/LariceG/setMySpace.git
 cd setMySpace
 npm install
 npm run dev
